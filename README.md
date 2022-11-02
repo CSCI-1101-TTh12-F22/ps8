@@ -22,7 +22,7 @@ As always, you will submit to Canvas **a single .zip file**. Detailed instructio
 
 
 ## Part 1: Cereal data
-Open `part1.py`. The comments in this file will tell you what you need to do using the libraries NumPy, Pandas, and Matplotlib. 
+Open `part1.py`. The comments in this file will tell you what you need to do using the libraries NumPy, Pandas, and Matplotlib. We will learn about pandas on November 3 in class, but you can figure it out by looking at the sample code for Week 10.
 
 The dataset you'll be using is in the file called `cereal.csv`. You can read more about it [here](https://www.kaggle.com/crawford/80-cereals).
 
