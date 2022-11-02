@@ -14,11 +14,12 @@ As always, you will submit to Canvas **a single .zip file**. Detailed instructio
 
 **Honor pledge**: And, as always, in every program, the first four lines (comments) should be your honor pledge.
 
-**Libraries**: Before gettings started make sure you have the following libraries installed:
+**Libraries**: Before gettings started make sure you have the following libraries installed. Don't remember how to install libraries? See the instructions from PS7 and from the lecture notes for 11/1.
 
 * NumPy
 * Matplotlib
 * Pandas
+
 
 ## Part 1: Cereal data
 Open `part1.py`. The comments in this file will tell you what you need to do using the libraries NumPy, Pandas, and Matplotlib. 
