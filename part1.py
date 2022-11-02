@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# See the sample code from Tuesday's lecture for
+# See the sample code from Week 10 for
 # commented examples showing how to do most or
 # all of these things. You might need to Google some
 # answers or, better yet, look at the links I have
@@ -30,7 +30,7 @@ import matplotlib.pyplot as plt
 
 
 
-# Find amd print out the name of cereal with most protein
+# Find and print out the name of cereal with most protein
 # and the cereal with the least fat.
 # Again, there are many ways to do this, and any way is right
 # as long as you get the right answer. 
